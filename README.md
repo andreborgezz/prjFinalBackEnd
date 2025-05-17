@@ -59,7 +59,7 @@ POST /ingressos         -> Compra ingressos para evento
 
 ```
 git clone https://github.com/andreborgezz/prjFinalBackEnd.git
-cd prjRenascev3
+cd prjFinalBackEnd/prjRenascev3
 ```
 
 2. Configure o arquivo `application.properties` com os dados do seu banco de dados.
